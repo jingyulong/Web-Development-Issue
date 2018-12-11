@@ -1,1 +1,1 @@
-You can find it at issue tab.
+You can find it at issues tab.
